@@ -19,9 +19,9 @@ global.sc = 'https://github.com/arybotz' //jngn ganti hargai creator
 global.ss = 'https://youtu.be/Xko5KRu9mHc' //jngn ganti hargai creator
 global.sss = 'https://youtu.be/Xko5KRu9mHc' //jngn ganti hargai creator
 global.yt = 'https://youtube.com/c/AryBotz'
-global.dana = '085762008398' //ganti pakai nomor dana mu
-global.pulsa = '085762008398' //ganti pakai nomor pulsa mu
-global.gopay = '085762008398' //ganti pakai nomor Gopay mu
+global.dana = '089629650892' //ganti pakai nomor dana mu
+global.pulsa = '089629650891' //ganti pakai nomor pulsa mu
+global.gopay = '089629650892' //ganti pakai nomor Gopay mu
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙BABYBOT-Ofc⳹ ❋ཻུ۪۪' //ganti jadiin nama bot mu
@@ -29,7 +29,7 @@ global.gc = 'https://chat.whatsapp.com/IyrxJb2Ktk6EXllKgZ9gDr' //ganti pakai gru
 global.web = 'https://youtube.com/c/AryBotz' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = '"https://instagram.com/AryBotz"' //ganti pakai Instagram mu
 global.saweria = '"https:/saweria.c/AryBotz"' //bebas ganti aja pakai apa
-global.nomer = 'https://wa.me/994408465157' //ganti jadi nomor mu
+global.nomer = 'https://wa.me/6285710128853' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
